@@ -106,6 +106,9 @@ http://dx.doi.org/10.17632/8hdb83vdvt.1
 - [BTK](https://github.com/Biomechanical-ToolKit/) ([conda-forge](https://anaconda.org/conda-forge/btk), [PyPI](https://pypi.org/project/pyBTK/))
 - [EZC3D](https://github.com/pyomeca/ezc3d)
 
+## C3D Viewer
+- [pyorerun](https://github.com/pyomeca/pyorerun)
+
 ## C3D applications
 ### Python
 - [PyC3Dserver](https://github.com/mkjung99/pyc3dserver)
